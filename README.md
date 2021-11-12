@@ -10,8 +10,6 @@ Then click the green "use this template" button above to create your repository,
 
 See [Getting Started Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information. 
 
-View the [demo site](https://collectionbuilder.github.io/collectionbuilder-gh/).
-
 **Note:** 
 Since `collectionbuilder-gh` uses [GitHub Pages](https://pages.github.com/), it is only suitable for small collections, with lower resolution images. GitHub repositories are limited to 1GB.
 
